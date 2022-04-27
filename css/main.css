@@ -35,6 +35,13 @@ footer {
     text-align: center;
     font-size: 4rem;
 
+
+
+transition: all .3s ease-in-out; 
+background-color: #00c3ff;
+transform: rotate(360deg);
+
+
 }
 
 
@@ -54,7 +61,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     font-weight: bolder;
-    font-size: 4rem;
+    font-size: 2rem;
     font-style: inherit;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
@@ -187,20 +194,20 @@ li {
 h2 {
     color: #000000;
     background-color: #0000ff;
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
 h3 {
     color: #000000;
     background-color: #0000ff;
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
 .comentarios {
     background-color: darkorange;
     color: white;
     font-family: Impact, Haettenschweiler, ;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 
@@ -259,16 +266,16 @@ h3 {
         flex-direction: row;
         justify-content: space-between;
         font-weight: bolder;
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
 
     h2 {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     h3 {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
 
@@ -276,7 +283,7 @@ h3 {
         color: #ffffff;
         background-color: #0000ff;
         text-align: center;
-        font-size: 2rem;
+        font-size: 1rem;
 
     }
 
@@ -314,7 +321,7 @@ h3 {
 
     .comentarios {
         background-color: #0000ff;
-        font-size: 2rem;
+        font-size: 1rem;
        
     }
   
